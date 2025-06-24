@@ -1,1 +1,0 @@
-miniproject.o: ../miniproject.c
